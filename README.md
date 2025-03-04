@@ -22,9 +22,7 @@ Hey! I've been hooked on computers since I was a kid. I remember spending hours 
 
 ### BrainsterLabs andrejlozanovski-project01.netlify.app 
 Responsive website on which we will place all the projects Brainster students have made from the Marketing Academy, Coding Academy and Design Academy  
-Tech Stack:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40" style="margin: 10px"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" alt="Bootstrap" width="40" height="40" style="margin: 10px"/>  
+Tech Stack: **HTML, CSS, JavaScript, Bootstrap**
 
 ### 🌍 [Project Name 2](https://github.com/yourusername/project2)  
 A short explanation of what this project does.  
