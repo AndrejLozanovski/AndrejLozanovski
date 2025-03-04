@@ -20,7 +20,7 @@ Hey! I've been hooked on computers since I was a kid. I remember spending hours 
 
 ## 📌 Projects  
 
-### BrainsterLabs [andrejlozanovski-project01.netlify.app ](https://andrejlozanovski-project01.netlify.app/)
+### BrainsterLabs [Link](https://andrejlozanovski-project01.netlify.app/)
 Responsive website on which we will place all the projects Brainster students have made from the Marketing Academy, Coding Academy and Design Academy  
 Tech Stack: **HTML, CSS, JavaScript, Bootstrap**
 
