@@ -28,6 +28,6 @@ Tech Stack: **HTML, CSS, JavaScript, Bootstrap**
 Mobile web space for every street artist that will allow them to be able to track their income, and to have a place on the web where they can showcase their masterpieces
 Tech Stack: **HTML, CSS, JavaScript, Bootstrap**  
 
-### [Kinemoe]((https://andrejlozanovski-project03.netlify.app/)
+### [Kinemoe](https://andrejlozanovski-project03.netlify.app/)
 The website serves as an online streaming platform that allows users to explore, engage with, and express themselves through a wide variety of media content including (but not limited to) Movies, TV series, documentaries, and podcasts  
 Tech Stack: **React, TypeScript, Firebase**  
