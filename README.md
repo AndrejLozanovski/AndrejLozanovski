@@ -32,7 +32,8 @@ Hey! I've been hooked on computers since I was a kid. I remember spending hours 
 
 ### [BrainsterLabs](https://andrejlozanovski-project01.netlify.app/)
 Responsive website on which we will place all the projects Brainster students have made from the Marketing Academy, Coding Academy and Design Academy  
-Tech Stack: **HTML, CSS, JavaScript, RegEx**
+# Tech Stack: 
+**HTML, CSS, JavaScript, RegEx**
 
 ### [StreetARTist](https://andrejlozanovski-project02.netlify.app/) 
 Mobile web space for every street artist that will allow them to be able to track their income, and to have a place on the web where they can showcase their masterpieces
