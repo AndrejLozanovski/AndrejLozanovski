@@ -44,7 +44,7 @@ Tech Stack: **React, TypeScript, Firebase**
 
 <br><br>
 
-## 🛠 Current Focus & Visions
+## 🎯 Current Focus & Visions
 
 Currently, I'm working on an exciting project with a company that combines web development and digital marketing. 
 
