@@ -41,3 +41,13 @@ Tech Stack: **HTML, JavaScript, Bootstrap, ChartJS**
 ### [Kinemoe](https://andrejlozanovski-project03.netlify.app/)
 The website serves as an online streaming platform that allows users to explore, engage with, and express themselves through a wide variety of media content including (but not limited to) Movies, TV series, documentaries, and podcasts  
 Tech Stack: **React, TypeScript, Firebase**  
+
+<br><br>
+
+## 🛠 Current Focus & Visions
+
+Currently, I'm working on an exciting project with a company that combines web development and digital marketing. 
+
+On the side, I've been diving into the world of e-commerce. There's so much to learn and it's changing faster than I can update my browser tabs. I'm constantly amazed by how a few lines of code can create entire online marketplaces.
+
+My vision? To keep pushing my limits, learning the latest tech trends and creating web experiences that make people go 'Wow!' I believe that a commitment to lifelong learning is essential in this industry. I'm excited for the challenges ahead, knowing that every obstacle is an opportunity to learn and grow. Onwards and upwards!
