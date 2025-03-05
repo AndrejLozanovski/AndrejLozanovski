@@ -7,7 +7,7 @@ Hey! I've been hooked on computers since I was a kid. I remember spending hours 
 <br><br>
 
 ## 💻 Tech Stack  
-<p style="display: flex; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; flex-wrap: wrap; gap: 20px;">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS" width="40" height="40"/>
@@ -24,7 +24,8 @@ Hey! I've been hooked on computers since I was a kid. I remember spending hours 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postman/postman-original.svg" alt="Postman" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" width="40" height="40"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40"/>
-</p>
+</div>
+
 
 
 <br><br>
