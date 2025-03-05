@@ -6,7 +6,7 @@ Hey! I've been hooked on computers since I was a kid. I remember spending hours 
 
 <br><br>
 
-## 💻 Tech Stack  
+## 🛠 Technologies and Tools 
 <p>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="40" height="40" style="margin: 20px"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML" width="40" height="40" style="margin: 20px"/>
