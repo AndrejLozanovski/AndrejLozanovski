@@ -32,16 +32,18 @@ Hey! I've been hooked on computers since I was a kid. I remember spending hours 
 
 ### [BrainsterLabs](https://andrejlozanovski-project01.netlify.app/)
 Responsive website on which we will place all the projects Brainster students have made from the Marketing Academy, Coding Academy and Design Academy  
-### Tech Stack: 
+### Tech Stack:
 **HTML, CSS, JavaScript, RegEx**
 
 ### [StreetARTist](https://andrejlozanovski-project02.netlify.app/) 
 Mobile web space for every street artist that will allow them to be able to track their income, and to have a place on the web where they can showcase their masterpieces
-Tech Stack: **HTML, JavaScript, Bootstrap, ChartJS**  
+### Tech Stack:
+**HTML, JavaScript, Bootstrap, ChartJS**  
 
 ### [Kinemoe](https://andrejlozanovski-project03.netlify.app/)
 The website serves as an online streaming platform that allows users to explore, engage with, and express themselves through a wide variety of media content including (but not limited to) Movies, TV series, documentaries, and podcasts  
-Tech Stack: **React, TypeScript, Firebase**  
+### Tech Stack:
+**React, TypeScript, Firebase**  
 
 <br><br>
 
