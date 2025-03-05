@@ -55,5 +55,5 @@ On the side, I've been diving into the world of e-commerce. There's so much to l
 
 My vision? To keep pushing my limits, learning the latest tech trends and creating web experiences that make people go 'Wow!' I believe that a commitment to lifelong learning is essential in this industry. I'm excited for the challenges ahead, knowing that every obstacle is an opportunity to learn and grow. Onwards and upwards!
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=AndrejLozanovski&count_private=true&theme=tokyonight&showicons=true)]()
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Andrej_Lozanovski&show_icons=true&theme=transparent)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AndrejLozanovski&langs_count=5&theme=tokyonight)]()
